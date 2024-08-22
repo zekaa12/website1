@@ -1,0 +1,49 @@
+
+ h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    background: linear-gradient(10deg, darkblue, cyan, purple, mediumvioletred);
+    -webkit-background-clip: text;
+    background-size: 50%;
+    transform-origin: right;
+    color: transparent;
+    animation: Siap Tempur Melawan Kalian!!!!!!! linear infinite;
+}
+
+@keyframes Siap Tempur Melawan Kalian!!!!!!! {
+    0%{
+        background-position: 100% 0%;
+    }
+    50%{
+        background-position: 0% 100%;
+    }
+    100%{
+        background-position: 100% 0%;
+    }
+}
+
+
+ h2{
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    background: linear-gradient(10deg, darkblue, cyan, purple, mediumvioletred);
+    -webkit-background-clip: text;
+    background-size: 50%;
+    transform-origin: right;
+    color: transparent;
+    animation: Senggolll Donggggggggg linear infinite;
+}
+
+@keyframes Senggolll Donggggggggg {
+    0%{
+        background-position: 100% 0%;
+    }
+    50%{
+        background-position: 0% 100%;
+    }
+    100%{
+        background-position: 100% 0%;
+    }
+}
